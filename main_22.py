@@ -2,8 +2,8 @@
 # Turtle Graphics / OOP
 # DAY 22
 from turtle import Screen
-from paddle import Paddle, Ball
-from scores import Score
+from paddle_22 import Paddle, Ball
+from scores_22 import Score
 
 import time
 
